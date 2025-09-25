@@ -1,0 +1,7 @@
+venv/
+ENV/
+env/
+.venv/
+
+*.xlsx
+*.xls
