@@ -1,7 +1,8 @@
+# Ignore Excel files
+*.xlsx
+*.xls
+
+# Ignore Python virtual environment
 venv/
 ENV/
 env/
-.venv/
-
-*.xlsx
-*.xls
